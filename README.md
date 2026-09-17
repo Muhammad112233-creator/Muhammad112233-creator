@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Muhammad112233-creator?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-4-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Repositories-20-00F7FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Pakistan-00F7FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Languages-English%20%7C%20Urdu-00F7FF?style=for-the-badge" />
