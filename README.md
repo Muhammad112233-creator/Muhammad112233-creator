@@ -19,13 +19,6 @@
 
 <br>
 
-
-
-src="https://komarev.com/ghpvc/?username=Muhammad112233-creator&style=flat&color=aa9bef&label=profile+views"
-alt="Profile views"
-
-
-
 </div>
 
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
