@@ -1,3 +1,30 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=1">
+  <img src="assets/banner-light.svg?v=1" width="100%" alt="Muhammad — live developer profile">
+</picture>
+
+<br>
+
+<!-- Animated typing line -->
+
+<a href="https://github.com/Muhammad112233-creator">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Muhammad+-+Web+Developer+%26+SEO+Expert;Building+with+HTML+/+CSS+/+JavaScript+/+Shopify;Learning+Backend+/+APIs+/+Node.js"
+    alt="Typing introduction"
+  >
+</a>
+
+<br>
+
+<img
+src="https://komarev.com/ghpvc/?username=Muhammad112233-creator&style=flat&color=aa9bef&label=profile+views"
+alt="Profile views"
+
+</div>
+
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <h1 align="center">Hi there, I'm Muhammad 👋</h1>
 <div align="center">
